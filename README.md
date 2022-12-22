@@ -2,7 +2,7 @@
 
 ## Horiseon
 
-This website is designed to optimize accesiblity. 
+This website is designed to optimize accesibility. 
 
 https://ltram16.github.io/hw-1/Develop/
 
